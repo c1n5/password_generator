@@ -22,7 +22,7 @@ The project aims to develop a password generation program tailored for business 
 
 ## Usage
 
-1. Open the following URL in the browser: https://virginiafreitas.github.io/password-generator/
+1. Open the following URL in the browser: https://c1n5.github.io/password_generator/
 2. Click on the "Generate Password" button.
 3. Select how many characters you'd like in the password. Password needs to be within 8 and 128 characters, so if you type a number outside of that range you'll have to start over.
 4. Select OK if you'd like to use lowercases, or select Cancel if you don't.
